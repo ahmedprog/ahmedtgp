@@ -5,7 +5,7 @@
 ### Hi, I am Ahmed 👋
 - 🎓 Computer Science - Asyut University.
 - 💬 Ask me about frontend, web, or anything.
-- 📫 Reach me at: 
+- 📫 Reach me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nasser/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahmed.tgp@gmail.com)
 
