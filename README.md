@@ -1,4 +1,4 @@
-[![Header](https://i.imgur.com/UmuHnDn.gif)]()
+[![Header](https://i.imgur.com/UmuHnDn.gif)]()[![Header](https://svgshare.com/i/P7P.svg)]()
 <br/>
 [![Header](https://i.imgur.com/DHQCuNG.gif)]()
 ---
@@ -29,8 +29,6 @@
 [![Ionic](https://img.shields.io/badge/-Ionic-478aff?style=flat-square&logo=ionic&logoColor=fff)]( )
 
 #
-
-[![Header](https://svgshare.com/i/P7P.svg)]()
 
 - ⚡ Loading New Skill ...
 - ✨ Loading New Ideas ...
