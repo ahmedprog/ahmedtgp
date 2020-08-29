@@ -19,38 +19,18 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)]( )
-[![Sass](https://img.shields.io/badge/-Sass-000?style=flat-square&logo=sass)]( )
+[![Sass](https://img.shields.io/badge/-Sass-cf649a?style=flat-square&logo=sass&logoColor=fff]( )
 [![JQuery](https://img.shields.io/badge/-JQuery-000?style=flat-square&logo=jQuery&logoColor=0769AD)]()
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]( )
 
 - 🌱 I’m currently learning ...
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)]( )
-[![Ionic](https://img.shields.io/badge/-Ionic-000?style=flat-square&logo=ionic)]( )
+[![Ionic](https://img.shields.io/badge/-Ionic-478aff?style=flat-square&logo=ionic&logoColor=fff)]( )
 
 #
 
-```
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-```
+[![Header](https://svgshare.com/i/P7P.svg)]()
 
 - ⚡ Loading New Skill ...
 - ✨ Loading New Ideas ...
