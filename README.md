@@ -6,7 +6,8 @@
 ---
 - 🎓 Computer Science - Asyut University
 - 💬 Ask me about frontend, web, or anything
-- 📫 How to reach me:
+- 📫 How to reach me
+
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.tgp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nasser/)
 
