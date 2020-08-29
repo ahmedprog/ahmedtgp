@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://photos.app.goo.gl/VvwQZ6hq9sC4HP8z8)]
+[![Header](https://i.imgur.com/VwOQdbt.gifv)]
 
 <!--
 **ahmedtgp/ahmedtgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
