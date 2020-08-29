@@ -1,6 +1,7 @@
-[![Header](https://i.imgur.com/UmuHnDn.gif)]()[![Header](https://svgshare.com/i/P7P.svg)]()
+<!--[![Header](https://i.imgur.com/UmuHnDn.gif)]()[![Header](https://svgshare.com/i/P7P.svg)]()-->
 <br/>
 [![Header](https://i.imgur.com/DHQCuNG.gif)]()
+<img align="left" width="150" height="150" src="https://svgshare.com/i/P7P.svg">
 ---
 ### Hi, I am Ahmed 👋
 - 🎓 Computer Science - Asyut University.
@@ -19,7 +20,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)]( )
-[![Sass](https://img.shields.io/badge/-Sass-cf649a?style=flat-square&logo=sass&logoColor=fff]( )
+[![Sass](https://img.shields.io/badge/-Sass-cf649a?style=flat-square&logo=sass&logoColor=fff)]( )
 [![JQuery](https://img.shields.io/badge/-JQuery-000?style=flat-square&logo=jQuery&logoColor=0769AD)]()
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]( )
 
