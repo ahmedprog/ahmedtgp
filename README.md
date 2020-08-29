@@ -1,7 +1,9 @@
 <!--[![Header](https://i.imgur.com/UmuHnDn.gif)]()[![Header](https://svgshare.com/i/P7P.svg)]()-->
 <br/>
 [![Header](https://i.imgur.com/DHQCuNG.gif)]()
-<img align="left" width="150" height="150" src="https://svgshare.com/i/P7P.svg">
+<img align="right" width="200" height="200" src="https://svgshare.com/i/P7P.svg">
+<img align="left" width="200" height="100" src="https://i.imgur.com/UmuHnDn.gif">
+
 ---
 ### Hi, I am Ahmed 👋
 - 🎓 Computer Science - Asyut University.
