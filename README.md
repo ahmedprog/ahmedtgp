@@ -24,7 +24,6 @@
 - 🌱 I’m currently learning ...
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)]( )
-[![Ionic](https://img.shields.io/badge/-Ionic-478aff?style=flat-square&logo=ionic&logoColor=fff)]( )
 
 #
 
